@@ -1,0 +1,22 @@
+.carousselimage {
+  margin-top: 5vh;
+  height: 50vh;
+  width: 33%;
+  position: absolute;
+  right: 10vw;
+  cursor: pointer;
+}
+
+.carousselimage img {
+  border-radius: 25px;
+  margin-right: 15vw;
+  margin-left: 20vw;
+}
+
+.carousel-status {
+  display: none !important;
+}
+
+.carousselimage h2 {
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+.crewphrase {
+  font-size: 1.65rem;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 14vw;
+  font-weight: 300;
+  font-size: 26.4px;
+  margin-top: 70px;
+  text-decoration: overline underline;
+}

@@ -1,0 +1,51 @@
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background-color: #00000060;
+  z-index: 9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  width: 50vw;
+  height: 70vh;
+  background-color: white;
+  position: relative;
+}
+
+.modal-content button {
+  position: absolute;
+  top: 0;
+  right: 10px;
+  border: none;
+  background-color: transparent;
+  font-size: 2rem;
+  color: #00000060;
+  cursor: pointer;
+}
+
+.modal-content button:hover {
+  color: black;
+}
+
+.img-center {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.img-center img {
+  margin: 0 !important;
+}
+
+.modal p {
+  font-family: "sacramento";
+  text-align: center;
+  font-weight: 900;
+  font-size: 2.5rem;
+}

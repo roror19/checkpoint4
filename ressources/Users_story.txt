@@ -1,0 +1,15 @@
+En tant qu'utilisateur, je peux naviguer entre les pages afin de parcourir le site
+
+
+En tant qu'utilisateur, je peux ajouter, supprimer ou modifier des équipements/objets afin de préparer mon bateau
+
+
+
+En tant qu'utilisateur, je peux regarder les photos du crew afin d'en savoir plus sur eux
+
+
+En tant qu'utilisateur, je peux envoyer un formulaire afin de contacter le roi.
+
+
+
+En tant qu'utilisateur, je peux choisir ma destination afin de commencer la guerre

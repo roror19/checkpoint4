@@ -1,0 +1,34 @@
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 1.5rem;
+  margin-left: 400px;
+  text-decoration: none;
+  padding: 30px;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  padding: 10px 20px;
+  font-family: "sacramento";
+  font-weight: 900;
+}
+
+nav a:hover {
+  text-decoration: underline overline;
+  border: 2px solid;
+  text-decoration-style: double;
+  color: black !important;
+}
+
+.compass {
+  height: 20px;
+  margin-right: 10px;
+}
+
+.map {
+  height: 20px;
+  margin-right: 10px;
+}
